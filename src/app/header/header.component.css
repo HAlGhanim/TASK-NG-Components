@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f5deb3;
+  padding: 10px 20px;
+  border: 1px solid black;
+}
+
+.logo {
+  font-weight: bold;
+}
+
+.nav-links a {
+  margin-left: 15px;
+  color: blue;
+  text-decoration: underline;
+}
